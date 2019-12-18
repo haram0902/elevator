@@ -1,0 +1,7 @@
+spring:
+  #MYSQL 설정정보
+  datasource:
+    url: jdbc:mysql://localhost:3306/elevator
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
